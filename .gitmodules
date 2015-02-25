@@ -1,0 +1,3 @@
+[submodule "FluentMigrator"]
+	path = FluentMigrator
+	url = https://github.com/schambers/fluentmigrator.git
